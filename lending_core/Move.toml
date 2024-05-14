@@ -18,4 +18,4 @@ local = "../utils"
 
 [addresses]
 sui = "0x2"
-lending_core = "0x0"
+lending_core = "0xc6374c7da60746002bfee93014aeb607e023b2d6b25c9e55a152b826dbc8c1ce"

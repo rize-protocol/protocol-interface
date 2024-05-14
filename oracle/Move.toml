@@ -9,4 +9,4 @@ rev = "mainnet"
 
 [addresses]
 sui = "0x02"
-oracle = "0x0"
+oracle = "0xca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f"
