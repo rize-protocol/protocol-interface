@@ -1,6 +1,6 @@
 [package]
 name = "oracle"
-version = "0.0.1"
+version = "0.0.0"
 published-at = "0xca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f"
 
 [dependencies.Sui]
