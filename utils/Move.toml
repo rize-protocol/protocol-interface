@@ -10,4 +10,4 @@ rev = "mainnet"
 
 [addresses]
 sui = "0x2"
-utils = "0xc6374c7da60746002bfee93014aeb607e023b2d6b25c9e55a152b826dbc8c1ce"
+utils = "0xd899cf7d2b5db716bd2cf55599fb0d5ee38a3061e7b6bb6eebf73fa5bc4c81ca"
